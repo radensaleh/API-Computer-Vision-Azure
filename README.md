@@ -1,2 +1,2 @@
 # API-Computer-Vision-Azure
-Final Submission Dicoding MACD[https://www.dicoding.com/academies/83]
+[https://www.dicoding.com/academies/83]Final Submission Dicoding MACD
